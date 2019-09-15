@@ -1,6 +1,6 @@
 # Live Order Board
 
-by _Silver Bars Marketplace_git remote add origin https://github.com/eamagdalena/live-order-board.git
+by _Silver Bars Marketplace_
 
 ###  Quick start
 
