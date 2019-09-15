@@ -11,7 +11,7 @@ $ gradlew test
 
 ```
 # generate library
-$ gradlew jar`
+$ gradlew jar
 ```
 
 ### How to use
